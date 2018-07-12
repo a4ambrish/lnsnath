@@ -1,0 +1,4 @@
+1. Maven
+2. Git
+3. Core Java - Basic SQL 
+4.
